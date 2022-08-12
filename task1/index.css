@@ -11,7 +11,7 @@
     --navbar-height:59px;
 }
 
-/* #navbar{
+ #navbar{
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -51,10 +51,10 @@
     color: rgb(70, 58, 238);
     transform: scale(1.1);
     font-weight: bold;
-} */
+} 
 
 
-/* .navbar {
+ .navbar {
     display: flex;
     position: fixed;
     justify-content: center;
@@ -139,7 +139,7 @@
         transform: translateY(-8px) rotate(-45deg);
     }
 }
- */
+ 
 
 #home {
     height: 660px;
